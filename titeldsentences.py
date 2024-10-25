@@ -9,8 +9,3 @@ for sentence in my_string:
         index_counter += 1
         if sentence_list[i].istitle() or sentence_list[i].isupper():
             print(f' {index_counter}  {sentence_list[i]} ')
-            
-            
-            
-            
-            
